@@ -1,8 +1,10 @@
-package com.androidcertification.roomexamplecodelabs;
+package com.androidcertification.roomexamplecodelabs.activity;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.androidcertification.roomexamplecodelabs.R;
 
 public class MainActivity extends AppCompatActivity {
 
