@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">RoomExampleCodelabs</string>
+    <string name="no_word_empty_state">No Word</string>
 </resources>
